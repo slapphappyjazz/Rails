@@ -205,6 +205,20 @@ Known Issues:
 </Description>
     <Players minimum="3" maximum="5" />
   </Game>
+  
+         
+     <Game name="18GB">
+         <Note>Prototype - not playable</Note>
+         <Description>18GB - The Railways of Great Britain
+		Copyright 2018 Dave Berry
+        Published by Deep Thought Games, LLC
+			
+Limitations: 
+- More than you can possibly imagine
+		</Description>
+		<Players minimum="2" maximum="6"/>
+	</Game> 
+  
    <Game name="1826">
     <Note>Prototype</Note>
     <Description>1826 - Railroading in France and Belgium from 1826</Description>
